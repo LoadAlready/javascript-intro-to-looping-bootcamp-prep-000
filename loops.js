@@ -7,6 +7,6 @@ for(let i = 0; i < 26; i++){
   }
 }}*/
 
-function forLoop([array]){
+function forLoop(array){
   
 }
